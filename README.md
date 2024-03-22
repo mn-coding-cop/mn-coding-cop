@@ -13,7 +13,7 @@
 ## 🤝🏻 You can find me on
 <br>
 <p align="center">
-  <a href="mailto:">
+  <a href="mailto:Ali.haze31@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="23" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/mn-coding-cop">
