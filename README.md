@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Muhammad Naeem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ali Haze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
 
 <meta charset="UTF-8">
     <p style="font-family: 'italic_font';">
-    This is me, <strong>Muhammad Naeem</strong>, a tech enthusiast and a Full-Stack Software Engineer with a keen interest in Competitive Programming. I am passionate about developing dynamic and user-friendly online applications, adept at creating scalable, reliable systems that provide outstanding user experiences. I am committed to enhancing myself and seeking a stage on which to develop and flourish. 💡 I love turning innovative concepts into reality. Check out my repositories to see what I'm currently working on! 🛠️ Thanks for stopping by! 👨‍💻
+    This is me, <strong>Ali Haze</strong>, a tech enthusiast and a Full-Stack Software Engineer with a keen interest in Competitive Programming. I am passionate about developing dynamic and user-friendly online applications, adept at creating scalable, reliable systems that provide outstanding user experiences. I am committed to enhancing myself and seeking a stage on which to develop and flourish. 💡 I love turning innovative concepts into reality. Check out my repositories to see what I'm currently working on! 🛠️ Thanks for stopping by! 👨‍💻
 </p>
 <br>
 
@@ -13,13 +13,13 @@
 ## 🤝🏻 You can find me on
 <br>
 <p align="center">
-  <a href="mailto:mnaeem3278@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="23" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/mn-coding-cop">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="23" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/mnaeems/">
+  <a href="https://www.linkedin.com/in/ali-haze/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="23"/>
   </a>
 </p>
