@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Adam Knight <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Adam K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
 
 <meta charset="UTF-8">
     <p style="font-family: 'italic_font';">
-    This is me, <strong>Adam Knight</strong>, a tech enthusiast and a Full-Stack Software Engineer with a keen interest in Competitive Programming. I am passionate about developing dynamic and user-friendly online applications, adept at creating scalable, reliable systems that provide outstanding user experiences. I am committed to enhancing myself and seeking a stage on which to develop and flourish. 💡 I love turning innovative concepts into reality. Check out my repositories to see what I'm currently working on! 🛠️ Thanks for stopping by! 👨‍💻
+    This is me, <strong>Adam K</strong>, a tech enthusiast and a Full-Stack Software Engineer with a keen interest in Competitive Programming. I am passionate about developing dynamic and user-friendly online applications, adept at creating scalable, reliable systems that provide outstanding user experiences. I am committed to enhancing myself and seeking a stage on which to develop and flourish. 💡 I love turning innovative concepts into reality. Check out my repositories to see what I'm currently working on! 🛠️ Thanks for stopping by! 👨‍💻
 </p>
 <br>
 
