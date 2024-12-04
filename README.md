@@ -13,13 +13,13 @@
 ## 🤝🏻 You can find me on
 <br>
 <p align="center">
-  <a href="mailto:seansarosh99@gmail.com">
+  <a href="mailto:marie.hansen360@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="23" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/mn-coding-cop">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="23" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/mhu360/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="23"/>
   </a>
 </p>
